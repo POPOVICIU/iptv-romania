@@ -1,0 +1,4 @@
+@echo off
+cd /d "C:\Users\Popoviciu\Desktop\IPTV Romania"
+"C:\Users\Popoviciu\AppData\Local\Programs\Python\Python312\python.exe" TV-Mikhoul.py
+exit
